@@ -1,0 +1,14 @@
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\bin\Debug\netcoreapp3.1\Express-Template-Builder.exe
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\bin\Debug\netcoreapp3.1\Express-Template-Builder.deps.json
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\bin\Debug\netcoreapp3.1\Express-Template-Builder.runtimeconfig.json
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\bin\Debug\netcoreapp3.1\Express-Template-Builder.runtimeconfig.dev.json
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\bin\Debug\netcoreapp3.1\Express-Template-Builder.dll
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\bin\Debug\netcoreapp3.1\Express-Template-Builder.pdb
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.csproj.AssemblyReference.cache
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.AssemblyInfoInputs.cache
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.AssemblyInfo.cs
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.csproj.CoreCompileInputs.cache
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.dll
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.pdb
+C:\Users\recod\Desktop\Github\Repos\Nodejs-Express-Template-Builder\Express-Template-Builder\Express-Template-Builder\obj\Debug\netcoreapp3.1\Express-Template-Builder.genruntimeconfig.cache
